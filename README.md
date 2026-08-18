@@ -1,19 +1,25 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815P/giphy.gif" width="30px"> Welcome to my GitHub!
-
-I'm **Atif Mazhar**, a passionate **Data Science & ML Engineer** with a strong focus on building end-to-end machine learning solutions, MLOps pipelines, and data-driven insights.
-
----
-
-## 🚀 What I Do
+# <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrng815P/giphy.gif" width="30px"> Welcome to my GitHub!</div>
 
 <div align="center">
 
-| 🤖 | 📊 | 🔧 | 💡 |
-|---|---|---|---|
-| **Machine Learning** | **Data Analytics** | **MLOps** | **Data Engineering** |
-| Building predictive models & algorithms | Transforming raw data into insights | CI/CD pipelines & production systems | Robust data pipelines |
+## Hi, I'm **Atif Mazhar** 👋
+
+### Data Science & Machine Learning Engineer | AI Enthusiast | Open Source Contributor
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atif-mazhar-560283291/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtifMazhar-01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atifmazhar00@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:7491920520)
 
 </div>
+
+---
+
+## 🚀 About Me
+
+Final-year **Computer Engineering student** at SPPU, Pune with hands-on experience in **Data Science and Machine Learning**. Proficient in building end-to-end AI solutions with expertise in Computer Vision, Time Series Forecasting, and Deep Learning. Currently interning as a **Data Science & Analytics professional** with certifications from **DeepLearning.AI** and **IBM**.
+
+**Location:** Pune, Maharashtra | **CGPA:** 9.47/10.0
 
 ---
 
@@ -21,69 +27,105 @@ I'm **Atif Mazhar**, a passionate **Data Science & ML Engineer** with a strong f
 
 <div align="center">
 
-### **Languages & Frameworks**
+### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-CE422B?style=for-the-badge&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### **ML & Data Tools**
+### **ML & Deep Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **Data & Analytics**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### **MLOps & DevOps**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
-![MLFlow](https://img.shields.io/badge/MLFlow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **Data Visualization**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### **Web & Deployment**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### **Databases & Tools**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 My Best Work
+## 🏆 Featured Projects
 
 <div align="center">
 
 ### 🌟 Flagship Projects
-  
+
 </div>
 
 <table>
 <tr>
 <td width="33%" align="center">
 
+### 🥔 Potato Disease Classification
+**End-to-End Computer Vision Deployment**
+
+- Built CNN model using TensorFlow achieving **99% prediction confidence**
+- Deployed on AWS EC2 with TensorFlow Serving & Docker
+- FastAPI REST APIs + React Frontend
+- Production-style ML pipeline
+
+[![View](https://img.shields.io/badge/View%20Project-black?style=flat-square&logo=github)](https://github.com/AtifMazhar-01/potatoes-project)
+
+</td>
+<td width="33%" align="center">
+
 ### 📈 Sales Forecasting System
-**End-to-end time-series forecasting**
+**Time Series & Predictive Modeling**
 
-[![Repo](https://img.shields.io/badge/View%20Repo-black?style=flat-square&logo=github)](https://github.com/AtifMazhar-01/sales-forecasting-system)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- Trained on 24,000+ historical records (2000-2023)
+- Meta Prophet for daily price predictions
+- Automated pipeline with GitHub Actions
+- Streamlit dashboard for visualization
 
-</td>
-<td width="33%" align="center">
-
-### 🚗 Vehicle Insurance
-**Production-ready Data Science**
-
-[![Repo](https://img.shields.io/badge/View%20Repo-black?style=flat-square&logo=github)](https://github.com/AtifMazhar-01/Vehicle-Insurance-Project)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+[![View](https://img.shields.io/badge/View%20Project-black?style=flat-square&logo=github)](https://github.com/AtifMazhar-01/sales-forecasting-system)
 
 </td>
 <td width="33%" align="center">
 
-### 🛍️ E-Commerce Analytics
-**Customer behavior insights**
+### 💳 Credit Card Fraud Detection
+**Classification on Imbalanced Dataset**
 
-[![Repo](https://img.shields.io/badge/View%20Repo-black?style=flat-square&logo=github)](https://github.com/AtifMazhar-01/ecommerce-customer-behavior-analytics)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- 6.3M+ financial transactions analyzed
+- **94% accuracy, 0.99 ROC-AUC, 96% fraud recall**
+- Advanced feature engineering techniques
+- Cost-sensitive learning implementation
+
+[![View](https://img.shields.io/badge/View%20Project-black?style=flat-square&logo=github)](https://github.com/AtifMazhar-01/credit-card-fraud-detection)
 
 </td>
 </tr>
 </table>
+
+---
+
+## 📊 Data Science & Analytics Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|-----------|
+| **[Vehicle Insurance Project](https://github.com/AtifMazhar-01/Vehicle-Insurance-Project)** | End-to-end Data Science project with predictive modeling | Python, Scikit-learn, Pandas |
+| **[E-Commerce Analytics](https://github.com/AtifMazhar-01/ecommerce-customer-behavior-analytics)** | Customer behavior analysis and insights | Python, Power BI, SQL |
+| **[Bike Prediction](https://github.com/AtifMazhar-01/BikePrediction-Project)** | ML project for bike rental demand forecasting | TensorFlow, Python |
+| **[Spam Mail Detection](https://github.com/AtifMazhar-01/Spam-Mail-Detection)** | Email classification system | Scikit-learn, NLP |
+| **[Titanic Survival](https://github.com/AtifMazhar-01/Titanic-ML-Project)** | Classification model for survival prediction | Python, ML Algorithms |
+
+</div>
 
 ---
 
@@ -95,46 +137,36 @@ I'm **Atif Mazhar**, a passionate **Data Science & ML Engineer** with a strong f
 |---------|-------------|------|
 | **[MLOPS-ML-Pipeline](https://github.com/AtifMazhar-01/MLOPS-ML-Pipeline)** | End-to-end ML pipeline with DVC & AWS S3 | ![badge](https://img.shields.io/badge/DVC-blue?style=flat-square) ![badge](https://img.shields.io/badge/AWS-orange?style=flat-square) |
 | **[MLOPS-CI](https://github.com/AtifMazhar-01/MLOPS-CI)** | Continuous Integration implementation | ![badge](https://img.shields.io/badge/CI%2FCD-red?style=flat-square) |
-| **[Mlops-Docker](https://github.com/AtifMazhar-01/Mlops-Docker)** | Docker containerization for ML | ![badge](https://img.shields.io/badge/Docker-blue?style=flat-square) |
+| **[Mlops-Docker](https://github.com/AtifMazhar-01/Mlops-Docker)** | Docker containerization for ML projects | ![badge](https://img.shields.io/badge/Docker-blue?style=flat-square) |
 | **[MLOPS-MLFlow](https://github.com/AtifMazhar-01/MLOPS-MLFlow)** | Experiment tracking with MLFlow | ![badge](https://img.shields.io/badge/MLFlow-green?style=flat-square) |
 
 </div>
 
 ---
 
-## 📊 Data Science Projects
+## 📚 Certifications & Training
 
 <div align="center">
 
-**Classification | Clustering | Prediction**
-
-</div>
-
-- 🔐 **[credit-card-fraud-detection](https://github.com/AtifMazhar-01/credit-card-fraud-detection)** - Fraud detection model
-- 📧 **[Spam-Mail-Detection](https://github.com/AtifMazhar-01/Spam-Mail-Detection)** - Email classification system
-- 🚴 **[BikePrediction-Project](https://github.com/AtifMazhar-01/BikePrediction-Project)** - Demand forecasting
-- 💵 **[KMeans-FakeNote-Project](https://github.com/AtifMazhar-01/KMeans-FakeNote-Project)** - Clustering for fake currency detection
-- 🚢 **[Titanic-ML-Project](https://github.com/AtifMazhar-01/Titanic-ML-Project)** - Survival prediction model
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtifMazhar-01&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifMazhar-01&layout=compact&theme=radical&hide_border=true)
+| Certification | Provider | Focus Area |
+|--------------|----------|-----------|
+| 🏆 **Deep Learning Specialization** | DeepLearning.AI (Andrew Ng) | Neural Networks, CNNs, Sequence Models |
+| 🏆 **Machine Learning Foundations** | University of Washington | Supervised & Unsupervised Learning, Model Evaluation |
+| 🏆 **Data Science Foundations** | IBM & University of London | Statistics, Probability, Python for DS |
+| 🏆 **SQL for Data Analysis** | Udemy | Database Queries & Analysis |
+| 🏆 **Advanced Diploma** | Computer Applications | Excel, Tally & Office Tools |
 
 </div>
 
 ---
 
-## 📊 Activity & Contributions
+## 📈 GitHub Statistics
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtifMazhar-01&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtifMazhar-01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifMazhar-01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
@@ -144,29 +176,26 @@ I'm **Atif Mazhar**, a passionate **Data Science & ML Engineer** with a strong f
 
 <div align="center">
 
-| 🔧 | 📚 | 🚀 | 💡 |
+| 🔬 | 📊 | 🚀 | 💡 |
 |---|---|---|---|
-| Building scalable MLOps pipelines | Exploring advanced ML techniques | Contributing to open-source | Sharing knowledge on DS & ML |
+| **Advanced Deep Learning** | **Real-World Analytics** | **Production Deployments** | **Open Source** |
+| Exploring cutting-edge DL techniques | Building dashboards & insights | Scalable ML systems | Contributing & Mentoring |
 
 </div>
 
 ---
 
-## 🛠️ Tools & Utilities
-
-- 🦀 **[lazylog](https://github.com/AtifMazhar-01/lazylog)** - System monitoring tool built in Rust
-- 📁 **[FileForge](https://github.com/AtifMazhar-01/FileForge)** - File manager for enhanced user experience
-- 🤝 **[first-contributions](https://github.com/AtifMazhar-01/first-contributions)** - Help beginners contribute to open source
-
----
-
-## 📫 Let's Connect!
+## 📞 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atifmazhar-01)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtifMazhar-01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+### Get in Touch!
+
+**Email:** atifmazhar00@gmail.com | **Phone:** +91 7491920520
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atif-mazhar-560283291/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/AtifMazhar-01)
+[![Gmail](https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail)](mailto:atifmazhar00@gmail.com)
 
 </div>
 
@@ -178,12 +207,13 @@ I'm **Atif Mazhar**, a passionate **Data Science & ML Engineer** with a strong f
 
 ✨ **I'm always interested in:**
 
-- 🤖 ML & Data Science projects
-- 🔧 MLOps implementations  
-- 🌍 Open-source contributions
+- 🤖 ML & Deep Learning projects
+- 📊 Data Science & Analytics work
+- 🚀 Production ML deployments
+- 💡 Open-source contributions
 - 📚 Knowledge sharing & mentoring
 
-**Let's build something amazing together!** 🚀
+### **Let's build something amazing together!** 🚀
 
 </div>
 
@@ -193,6 +223,8 @@ I'm **Atif Mazhar**, a passionate **Data Science & ML Engineer** with a strong f
 
 ### ⭐ If you find my work helpful, don't forget to star my repositories!
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AtifMazhar-01)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AtifMazhar-01.AtifMazhar-01)
+
+**Made with ❤️ by Atif Mazhar**
 
 </div>
