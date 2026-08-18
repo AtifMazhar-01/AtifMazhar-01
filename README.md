@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 Final-year **Computer Engineering student** at SPPU, Pune with hands-on experience in **Data Science and Machine Learning**. Proficient in building end-to-end AI solutions with expertise in Computer Vision, Time Series Forecasting, and Deep Learning. Currently interning as a **Data Science & Analytics professional** with certifications from **DeepLearning.AI** and **IBM**.
 
@@ -22,7 +22,7 @@ Final-year **Computer Engineering student** at SPPU, Pune with hands-on experien
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
