@@ -96,15 +96,15 @@ Final-year **Computer Engineering student** at SPPU, Pune with hands-on experien
 </td>
 <td width="33%" align="center">
 
-### 💳 Credit Card Fraud Detection
-**Classification on Imbalanced Dataset**
+### 🚗 Vehicle Insurance
+**End-to-End Data Science Project**
 
-- 6.3M+ financial transactions analyzed
-- **94% accuracy, 0.99 ROC-AUC, 96% fraud recall**
-- Advanced feature engineering techniques
-- Cost-sensitive learning implementation
+- Production-ready predictive modeling
+- Comprehensive feature engineering
+- Advanced model evaluation techniques
+- Real-world industry application
 
-[![View](https://img.shields.io/badge/View%20Project-black?style=flat-square&logo=github)](https://github.com/AtifMazhar-01/credit-card-fraud-detection)
+[![View](https://img.shields.io/badge/View%20Project-black?style=flat-square&logo=github)](https://github.com/AtifMazhar-01/Vehicle-Insurance-Project)
 
 </td>
 </tr>
@@ -118,10 +118,10 @@ Final-year **Computer Engineering student** at SPPU, Pune with hands-on experien
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[Vehicle Insurance Project](https://github.com/AtifMazhar-01/Vehicle-Insurance-Project)** | End-to-end Data Science project with predictive modeling | Python, Scikit-learn, Pandas |
 | **[E-Commerce Analytics](https://github.com/AtifMazhar-01/ecommerce-customer-behavior-analytics)** | Customer behavior analysis and insights | Python, Power BI, SQL |
 | **[Bike Prediction](https://github.com/AtifMazhar-01/BikePrediction-Project)** | ML project for bike rental demand forecasting | TensorFlow, Python |
 | **[Spam Mail Detection](https://github.com/AtifMazhar-01/Spam-Mail-Detection)** | Email classification system | Scikit-learn, NLP |
+| **[Credit Card Fraud Detection](https://github.com/AtifMazhar-01/credit-card-fraud-detection)** | Fraud detection on 6.3M+ transactions | Python, Scikit-learn |
 | **[Titanic Survival](https://github.com/AtifMazhar-01/Titanic-ML-Project)** | Classification model for survival prediction | Python, ML Algorithms |
 
 </div>
@@ -159,23 +159,11 @@ Final-year **Computer Engineering student** at SPPU, Pune with hands-on experien
 
 ---
 
-## 📈 GitHub Statistics & Activity
+## 📈 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtifMazhar-01&show_icons=true&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtifMazhar-01&theme=tokyo-night)
-
-</div>
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifMazhar-01&layout=compact&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtifMazhar-01&theme=github-dark)
 
 </div>
 
@@ -228,8 +216,6 @@ Final-year **Computer Engineering student** at SPPU, Pune with hands-on experien
 <div align="center">
 
 ### ⭐ If you find my work helpful, don't forget to star my repositories!
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=AtifMazhar-01.AtifMazhar-01)
 
 **Made with ❤️ by Atif Mazhar**
 
