@@ -161,9 +161,7 @@ Final-year **Computer Engineering student** at SPPU, Pune with hands-on experien
 
 ## 📈 GitHub Activity
 
-<div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtifMazhar-01&theme=github-dark)
 
 <div align="center">
 
@@ -171,7 +169,7 @@ Final-year **Computer Engineering student** at SPPU, Pune with hands-on experien
 
 </div>
 
-</div>
+
 
 ---
 
