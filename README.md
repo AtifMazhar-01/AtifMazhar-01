@@ -217,6 +217,6 @@ Final-year **Computer Engineering student** at SPPU, Pune with hands-on experien
 
 ### ⭐ If you find my work helpful, don't forget to star my repositories!
 
-**Made with ❤️ by Atif Mazhar**
+**Made by Atif Mazhar**
 
 </div>
