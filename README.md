@@ -18,7 +18,7 @@
 
 Final-year **Computer Engineering student** at SPPU, Pune with hands-on experience in **Data Science and Machine Learning**. Proficient in building end-to-end AI solutions with expertise in Comput[...]
 
-**Location:** Pune, Maharashtra | **CGPA:** 9.47/10.0
+**Location:** Pune, Maharashtra 
 
 ---
 
