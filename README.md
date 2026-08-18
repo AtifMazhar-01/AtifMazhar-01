@@ -8,8 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atif-mazhar-560283291/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AtifMazhar-01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atifmazhar00@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:7491920520)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/AtifMazhar-01)
 
 </div>
 
@@ -160,13 +159,23 @@ Final-year **Computer Engineering student** at SPPU, Pune with hands-on experien
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Statistics & Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtifMazhar-01&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtifMazhar-01&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifMazhar-01&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+</div>
+
+<div align="center">
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AtifMazhar-01&theme=tokyo-night)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtifMazhar-01&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -189,13 +198,10 @@ Final-year **Computer Engineering student** at SPPU, Pune with hands-on experien
 
 <div align="center">
 
-### Get in Touch!
-
-**Email:** atifmazhar00@gmail.com | **Phone:** +91 7491920520
+### Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/atif-mazhar-560283291/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github)](https://github.com/AtifMazhar-01)
-[![Gmail](https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail)](mailto:atifmazhar00@gmail.com)
 
 </div>
 
