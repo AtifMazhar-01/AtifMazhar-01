@@ -19,8 +19,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?duration=15000
+            dist/github-snake-dark.svg?palette=github-dark&duration=15000
 
       - name: Push Snake
         uses: crazy-max/ghaction-github-pages@v4
