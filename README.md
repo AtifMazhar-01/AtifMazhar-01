@@ -1,5 +1,5 @@
 
-<div  align="center" ><img width="180" height="80" alt="giphy" src="https://github.com/user-attachments/assets/44ec313c-4fc7-4f43-920d-752a90b1a096" /></div>
+<div  align="center" ><img width="180" height="120" alt="giphy" src="https://github.com/user-attachments/assets/44ec313c-4fc7-4f43-920d-752a90b1a096" /></div>
 
 # <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrng815P/giphy.gif" width="30px"> Welcome to my GitHub!
 
