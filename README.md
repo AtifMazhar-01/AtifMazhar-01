@@ -1,4 +1,4 @@
-<img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/44ec313c-4fc7-4f43-920d-752a90b1a096" />
+<img width="80" height="180" alt="giphy" src="https://github.com/user-attachments/assets/44ec313c-4fc7-4f43-920d-752a90b1a096" />
 # <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrng815P/giphy.gif" width="30px"> Welcome to my GitHub!
 
 </div>
