@@ -1,7 +1,7 @@
 # <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrng815P/giphy.gif" width="30px"> Welcome to my GitHub!
 
 </div>
-<img width="931" height="173" alt="welcome" src="https://github.com/user-attachments/assets/4ff9006c-9906-4743-9b3d-90c7c5ed6555" />
+<img width="1131" height="100" alt="welcome" src="https://github.com/user-attachments/assets/4ff9006c-9906-4743-9b3d-90c7c5ed6555" />
 
 
 
