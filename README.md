@@ -1,6 +1,6 @@
 # <div align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrng815P/giphy.gif" width="30px"> Welcome to my GitHub!</div>
 
-<img width="480" height="480" alt="212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413" src="https://github.com/user-attachments/assets/a47982bb-dc96-446a-b4a6-f4f75548c5fd" />
+<img width="80" height="80" alt="212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413" src="https://github.com/user-attachments/assets/a47982bb-dc96-446a-b4a6-f4f75548c5fd" />
 
 
 <div align="center">
