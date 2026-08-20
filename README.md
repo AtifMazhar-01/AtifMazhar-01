@@ -32,7 +32,7 @@ vision, time series forecasting, and completed a Data Science internship and cer
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution 
 
 <picture>
   <source
