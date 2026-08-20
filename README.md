@@ -25,7 +25,7 @@
 ##  About Me
 
 Final-year **Computer Engineering student** at SPPU, Pune with hands-on experience in **Data Science and Machine Learning**.Proficient in Python, SQL, 
-TensorFlow, and Scikit-learn, with experience in data preprocessing, model development, and end-to-end AI projects. Worked on computer 
+PyTorch, and Scikit-learn, with experience in data preprocessing, model development, and end-to-end AI projects. Worked on computer 
 vision, time series forecasting, and completed a Data Science internship and certifications from DeepLearning.AI and IBM.  
 
 **Location:** Pune, Maharashtra 
