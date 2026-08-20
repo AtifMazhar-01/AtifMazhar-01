@@ -162,7 +162,7 @@ vision, time series forecasting, and completed a Data Science internship and cer
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[MLOPS-ML-Pipeline](https://github.com/AtifMazhar-01/MLOPS-ML-Pipeline)** | End-to-end ML pipeline with DVC & AWS S3 | ![badge](https://img.shields.io/badge/DVC-blue?style=flat-square) ![badg[...] 
+| **[MLOPS-ML-Pipeline](https://github.com/AtifMazhar-01/MLOPS-ML-Pipeline)** | End-to-end ML pipeline with DVC & AWS S3 | ![badge](https://img.shields.io/badge/DVC-blue?style=flat-square) 
 | **[MLOPS-CI](https://github.com/AtifMazhar-01/MLOPS-CI)** | Continuous Integration implementation | ![badge](https://img.shields.io/badge/CI%2FCD-red?style=flat-square) |
 | **[Mlops-Docker](https://github.com/AtifMazhar-01/Mlops-Docker)** | Docker containerization for ML projects | ![badge](https://img.shields.io/badge/Docker-blue?style=flat-square) |
 | **[MLOPS-MLFlow](https://github.com/AtifMazhar-01/MLOPS-MLFlow)** | Experiment tracking with MLFlow | ![badge](https://img.shields.io/badge/MLFlow-green?style=flat-square) |
